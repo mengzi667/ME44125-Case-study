@@ -1,2 +1,2 @@
 # ME44125-Case-study
-Code for ME44125 Case study final essay
+Code for simulation model of ME44125 Case study final essay
